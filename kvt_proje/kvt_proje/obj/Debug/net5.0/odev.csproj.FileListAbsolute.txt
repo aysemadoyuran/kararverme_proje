@@ -1,0 +1,16 @@
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\odev.exe
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\odev.deps.json
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\odev.runtimeconfig.json
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\odev.runtimeconfig.dev.json
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\odev.dll
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\ref\odev.dll
+C:\Users\Aysema Doyuran\Desktop\odev\odev\bin\Debug\net5.0\odev.pdb
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.csproj.AssemblyReference.cache
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.AssemblyInfoInputs.cache
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.AssemblyInfo.cs
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.csproj.CoreCompileInputs.cache
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.dll
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\ref\odev.dll
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.pdb
+C:\Users\Aysema Doyuran\Desktop\odev\odev\obj\Debug\net5.0\odev.genruntimeconfig.cache
